@@ -1,0 +1,15 @@
+rooms,area,pop,pop_dens,frg_pct,emp,tax_income,room_per_m2,luxurious,temporary,furnished,area_cat_ecoded,zurich_city,recidual (error),price,predicted_price,description_raw,bfs_name,postalcode,town
+2.0,54,29944,10008.0,32.4584678868,491193.0,85446,27.0,0,0,0,2.0,1,902.5900000000001,4853,3950.41,«2 Bedroom Apartment Senior Balcony»,Zürich,8004, Zürich
+2.0,49,50950,5792.0,32.4584678868,491193.0,85446,24.5,0,0,0,0.0,1,981.3466666666668,4335,3353.653333333333,«2 Bedroom Apartment Junior Terrace»,Zürich,8003, Zürich
+3.0,76,50950,5792.0,32.4584678868,491193.0,85446,25.33,0,0,0,2.0,1,923.5333333333338,1970,2893.5333333333338,«3- Zimmerwohnung im Kreis 3 direkt beim Goldbrunnenplatz»,Zürich,8003, Zürich
+2.5,65,41411,4512.0,32.4584678868,491193.0,85446,26.0,0,0,0,2.0,1,887.0349999999999,5900,5012.965,«Serviced 1-bedroom with great view and luxurious interior design»,Zürich,8037, Zürich
+2.5,75,41411,4512.0,32.4584678868,491193.0,85446,30.0,0,0,0,2.0,1,1016.3000000000002,6900,5883.7,"«""Serviced 1-bedroom apartment: spectacular view & luxurious interior»",Zürich,8037, Zürich
+3.5,90,41411,4512.0,32.4584678868,491193.0,85446,25.71,0,1,0,2.0,1,941.585,1750,2691.585,«BEFRISTETES WOHNEN BIS 31. MÄRZ 2024»,Zürich,8049, Zürich
+2.5,70,78801,5736.0,32.4584678868,491193.0,85446,28.0,0,0,0,2.0,1,1590.6400000000003,5900,4309.36,«Spacious apartment with spectacular view and luxururious design»,Zürich,8057, Zürich
+3.5,126,37639,3254.0,32.4584678868,491193.0,85446,36.0,0,0,0,1.0,1,1282.1999999999998,6575,5292.8,«Live Above - Exklusive Mietwohnung über dem FIFA World Football Museum»,Zürich,8002, Zürich
+2.5,70,39647,2574.0,32.4584678868,491193.0,85446,28.0,0,0,0,2.0,1,811.4266666666672,5900,5088.573333333333,"«""Wohnoase im Englisch Viertel - Serviced Apartment in Jugendstil-Villa»",Zürich,8032, Zürich
+4.5,137,39647,2574.0,32.4584678868,491193.0,85446,30.44,0,0,0,1.0,1,1573.3366666666666,875,2448.3366666666666,«HISTORISCH MIT PRIVATER SONNENTERRASSE IM ZENTRUM»,Zürich,8001, Zürich
+5.5,200,113173,1662.5973262818,24.535003932,73339.0,70966,36.36,0,0,0,1.0,0,899.6033333333335,5600,4700.3966666666665,"«RUHIG UND SONNIG, MIT WUNDERSCHÖNER AUSSICHT»",Winterthur,8404, Winterthur
+3.5,130,18139,3298.0,29.0313688737,6582.0,113194,37.14,0,0,0,1.0,0,1256.3100000000004,6490,5233.69,«Weitblick im neu renovierten 2-Schlafzimmer-Serviced Apartment»,Thalwil,8800, Thalwil
+3.5,100,13067,1664.5859872612,26.0580087243,5764.0,171602,28.57,0,0,0,2.0,0,812.1949999999997,5550,4737.805,«3 1/2-Zimmer-Wohnung mit Seesicht»,Zollikon,8702, Zollikon
+4.5,101,35007,1228.7469287469,23.0096837775,17237.0,79839,22.44,0,0,0,1.0,0,861.7101666666663,3210,2348.2898333333337,«Helle und moderne Maisonette-Wohnung mit Galerie»,Uster,8610, Uster
